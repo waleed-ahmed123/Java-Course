@@ -1,0 +1,7 @@
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 1\ObjectsLibrary\ObjectsLibrary\bin\Debug\ObjectsLibrary.exe.config
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 1\ObjectsLibrary\ObjectsLibrary\bin\Debug\ObjectsLibrary.exe
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 1\ObjectsLibrary\ObjectsLibrary\bin\Debug\ObjectsLibrary.pdb
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 1\ObjectsLibrary\ObjectsLibrary\obj\Debug\ObjectsLibrary.csprojAssemblyReference.cache
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 1\ObjectsLibrary\ObjectsLibrary\obj\Debug\ObjectsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 1\ObjectsLibrary\ObjectsLibrary\obj\Debug\ObjectsLibrary.exe
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 1\ObjectsLibrary\ObjectsLibrary\obj\Debug\ObjectsLibrary.pdb

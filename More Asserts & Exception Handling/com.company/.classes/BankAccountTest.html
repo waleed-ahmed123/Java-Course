@@ -1,0 +1,151 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html id="htmlId">
+<head>
+  <title>Coverage Report :: BankAccountTest</title>
+  <style type="text/css">
+    @import "../../.css/coverage.css";
+  </style>
+</head>
+
+<body>
+<div class="header"></div>
+
+<div class="content">
+<div class="breadCrumbs">
+    [ <a href="../../index.html">all classes</a> ]
+    [ <a href="../index.html">com.company</a> ]
+</div>
+
+<h1>Coverage Summary for Class: BankAccountTest (com.company)</h1>
+
+<table class="coverageStats">
+<tr>
+  <th class="name">Class</th>
+<th class="coverageStat 
+">
+  Class, %
+</th>
+<th class="coverageStat 
+">
+  Method, %
+</th>
+<th class="coverageStat 
+">
+  Line, %
+</th>
+</tr>
+<tr>
+  <td class="name">BankAccountTest</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (1/ 1)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (11/ 11)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    92.6%
+  </span>
+  <span class="absValue">
+    (25/ 27)
+  </span>
+</td>
+</tr>
+
+</table>
+
+<br/>
+<br/>
+
+
+<div class="sourceCode"><i>1</i>&nbsp;package com.company;
+<i>2</i>&nbsp;
+<i>3</i>&nbsp;import static junit.framework.TestCase.assertEquals;
+<i>4</i>&nbsp;import static org.junit.Assert.*;
+<i>5</i>&nbsp;
+<b class="fc"><i>6</i>&nbsp;public class BankAccountTest {</b>
+<i>7</i>&nbsp;
+<i>8</i>&nbsp;    private BankAccount account;
+<i>9</i>&nbsp;    private static int count;
+<i>10</i>&nbsp;
+<i>11</i>&nbsp;    @org.junit.BeforeClass // BeforeClass runs before all other test cases
+<i>12</i>&nbsp;    public static void beforeClass() {
+<b class="fc"><i>13</i>&nbsp;        System.out.println(&quot;This executes before any test cases. Count = &quot; + count++);</b>
+<b class="fc"><i>14</i>&nbsp;    }</b>
+<i>15</i>&nbsp;
+<i>16</i>&nbsp;    @org.junit.Before
+<i>17</i>&nbsp;    public void setup() {
+<b class="fc"><i>18</i>&nbsp;        account = new BankAccount(&quot;Tim&quot;, &quot;Buchalka&quot;, 1000.00, BankAccount.CHECKING);</b>
+<b class="fc"><i>19</i>&nbsp;        System.out.println(&quot;Running a test...&quot;);</b>
+<b class="fc"><i>20</i>&nbsp;    }</b>
+<i>21</i>&nbsp;
+<i>22</i>&nbsp;    @org.junit.Test
+<i>23</i>&nbsp;    public void deposit() throws Exception {
+<b class="fc"><i>24</i>&nbsp;        double balance = account.deposit(200.00, true);</b>
+<b class="fc"><i>25</i>&nbsp;        assertEquals(1200.00, balance, 0);</b>
+<b class="fc"><i>26</i>&nbsp;    }</b>
+<i>27</i>&nbsp;
+<i>28</i>&nbsp;    @org.junit.Test
+<i>29</i>&nbsp;    public void withdraw_branch() throws Exception {
+<b class="fc"><i>30</i>&nbsp;        double balance = account.withdraw(600.00, true);</b>
+<b class="fc"><i>31</i>&nbsp;        assertEquals(400.00, balance, 0);</b>
+<b class="fc"><i>32</i>&nbsp;    }</b>
+<i>33</i>&nbsp;
+<i>34</i>&nbsp;    @org.junit.Test(expected = IllegalArgumentException.class)
+<i>35</i>&nbsp;    public void withdraw_notBranch() throws Exception {
+<b class="fc"><i>36</i>&nbsp;        double balance = account.withdraw(600.00, false);</b>
+<b class="nc"><i>37</i>&nbsp;        assertEquals(400.00, balance, 0);</b>
+<b class="nc"><i>38</i>&nbsp;    }</b>
+<i>39</i>&nbsp;
+<i>40</i>&nbsp;    @org.junit.Test
+<i>41</i>&nbsp;    public void getBalance_deposit() throws Exception {
+<b class="fc"><i>42</i>&nbsp;        account.deposit(200.00, true);</b>
+<b class="fc"><i>43</i>&nbsp;        assertEquals(1200.00, account.getBalance(), 0);</b>
+<b class="fc"><i>44</i>&nbsp;    }</b>
+<i>45</i>&nbsp;
+<i>46</i>&nbsp;    @org.junit.Test
+<i>47</i>&nbsp;    public void getBalance_withdraw() throws Exception {
+<b class="fc"><i>48</i>&nbsp;        account.withdraw(200.00, true);</b>
+<b class="fc"><i>49</i>&nbsp;        assertEquals(800.00, account.getBalance(), 0);</b>
+<b class="fc"><i>50</i>&nbsp;    }</b>
+<i>51</i>&nbsp;
+<i>52</i>&nbsp;    @org.junit.Test
+<i>53</i>&nbsp;    public void isChecking_true() {
+<b class="fc"><i>54</i>&nbsp;        assertTrue(&quot;The account is NOT a checking account&quot;, account.isChecking());</b>
+<b class="fc"><i>55</i>&nbsp;    }</b>
+<i>56</i>&nbsp;
+<i>57</i>&nbsp;    @org.junit.AfterClass
+<i>58</i>&nbsp;    public static void afterClass() {
+<b class="fc"><i>59</i>&nbsp;        System.out.println(&quot;This executes after any test cases. Count = &quot; + count++);</b>
+<b class="fc"><i>60</i>&nbsp;    }</b>
+<i>61</i>&nbsp;
+<i>62</i>&nbsp;    @org.junit.After
+<i>63</i>&nbsp;    public void teardown() {
+<b class="fc"><i>64</i>&nbsp;        System.out.println(&quot;Count = &quot; + count++);</b>
+<b class="fc"><i>65</i>&nbsp;    }</b>
+<i>66</i>&nbsp;
+<i>67</i>&nbsp;
+<i>68</i>&nbsp;}
+</div>
+</div>
+
+<div class="footer">
+    
+    <div style="float:right;">generated on 2021-01-21 14:32</div>
+</div>
+</body>
+</html>

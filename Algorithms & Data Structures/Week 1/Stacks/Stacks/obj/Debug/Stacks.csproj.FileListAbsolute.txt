@@ -1,0 +1,7 @@
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 1\Stacks\Stacks\bin\Debug\Stacks.exe.config
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 1\Stacks\Stacks\bin\Debug\Stacks.exe
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 1\Stacks\Stacks\bin\Debug\Stacks.pdb
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 1\Stacks\Stacks\obj\Debug\Stacks.csprojAssemblyReference.cache
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 1\Stacks\Stacks\obj\Debug\Stacks.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 1\Stacks\Stacks\obj\Debug\Stacks.exe
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 1\Stacks\Stacks\obj\Debug\Stacks.pdb

@@ -1,0 +1,7 @@
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 1\Queue\Queue\bin\Debug\Queue.exe.config
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 1\Queue\Queue\bin\Debug\Queue.exe
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 1\Queue\Queue\bin\Debug\Queue.pdb
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 1\Queue\Queue\obj\Debug\Queue.csprojAssemblyReference.cache
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 1\Queue\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 1\Queue\Queue\obj\Debug\Queue.exe
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 1\Queue\Queue\obj\Debug\Queue.pdb

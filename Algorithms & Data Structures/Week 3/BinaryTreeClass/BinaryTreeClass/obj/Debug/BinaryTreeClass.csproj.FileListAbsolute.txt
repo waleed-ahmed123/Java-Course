@@ -1,0 +1,7 @@
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 3\BinaryTreeClass\BinaryTreeClass\bin\Debug\BinaryTreeClass.exe.config
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 3\BinaryTreeClass\BinaryTreeClass\bin\Debug\BinaryTreeClass.exe
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 3\BinaryTreeClass\BinaryTreeClass\bin\Debug\BinaryTreeClass.pdb
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 3\BinaryTreeClass\BinaryTreeClass\obj\Debug\BinaryTreeClass.csprojAssemblyReference.cache
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 3\BinaryTreeClass\BinaryTreeClass\obj\Debug\BinaryTreeClass.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 3\BinaryTreeClass\BinaryTreeClass\obj\Debug\BinaryTreeClass.exe
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Week 3\BinaryTreeClass\BinaryTreeClass\obj\Debug\BinaryTreeClass.pdb

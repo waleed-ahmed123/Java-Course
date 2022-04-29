@@ -1,0 +1,10 @@
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Portfolios\Week 2\Week_2_Task_A\Week_2_Task_A\bin\Debug\Week_2_Task_A.exe.config
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Portfolios\Week 2\Week_2_Task_A\Week_2_Task_A\bin\Debug\Week_2_Task_A.exe
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Portfolios\Week 2\Week_2_Task_A\Week_2_Task_A\bin\Debug\Week_2_Task_A.pdb
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Portfolios\Week 2\Week_2_Task_A\Week_2_Task_A\obj\Debug\Week_2_Task_A.csprojAssemblyReference.cache
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Portfolios\Week 2\Week_2_Task_A\Week_2_Task_A\obj\Debug\Week_2_Task_A.Form1.resources
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Portfolios\Week 2\Week_2_Task_A\Week_2_Task_A\obj\Debug\Week_2_Task_A.Properties.Resources.resources
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Portfolios\Week 2\Week_2_Task_A\Week_2_Task_A\obj\Debug\Week_2_Task_A.csproj.GenerateResource.cache
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Portfolios\Week 2\Week_2_Task_A\Week_2_Task_A\obj\Debug\Week_2_Task_A.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Portfolios\Week 2\Week_2_Task_A\Week_2_Task_A\obj\Debug\Week_2_Task_A.exe
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\Portfolios\Week 2\Week_2_Task_A\Week_2_Task_A\obj\Debug\Week_2_Task_A.pdb

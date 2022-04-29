@@ -1,0 +1,10 @@
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\WebinarWeek1\WebinarWeek1\bin\Debug\WebinarWeek1.exe.config
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\WebinarWeek1\WebinarWeek1\bin\Debug\WebinarWeek1.exe
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\WebinarWeek1\WebinarWeek1\bin\Debug\WebinarWeek1.pdb
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\WebinarWeek1\WebinarWeek1\obj\Debug\WebinarWeek1.csprojAssemblyReference.cache
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\WebinarWeek1\WebinarWeek1\obj\Debug\WebinarWeek1.Form1.resources
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\WebinarWeek1\WebinarWeek1\obj\Debug\WebinarWeek1.Properties.Resources.resources
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\WebinarWeek1\WebinarWeek1\obj\Debug\WebinarWeek1.csproj.GenerateResource.cache
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\WebinarWeek1\WebinarWeek1\obj\Debug\WebinarWeek1.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\WebinarWeek1\WebinarWeek1\obj\Debug\WebinarWeek1.exe
+C:\Users\ahmed\Documents\Documents\COMPUTER SCIENCE UNI\Algorithms & Data Structures\WebinarWeek1\WebinarWeek1\obj\Debug\WebinarWeek1.pdb
